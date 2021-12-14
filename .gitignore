@@ -1,0 +1,14 @@
+# Adding config.py
+config.py
+
+# Adding archive folder
+archive
+
+# Adding movies csv file
+movies_metadata.csv
+
+# Adding ratings csv file
+ratings.csv
+
+# Adding untitled
+Untitled1.ipynb
